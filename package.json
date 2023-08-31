@@ -4,15 +4,15 @@
   "version": "0.0.0",
   "packageManager": "pnpm@8.7.0",
   "description": "_description_",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "geekris1 <200949970@qq.com>",
   "license": "MIT",
-  "funding": "https://github.com/sponsors/antfu",
-  "homepage": "https://github.com/antfu/pkg-placeholder#readme",
+  "funding": "https://github.com/sponsors/geekris1",
+  "homepage": "https://github.com/geekris1/pkg-placeholder#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/pkg-placeholder.git"
+    "url": "git+https://github.com/geekris1/pkg-placeholder.git"
   },
-  "bugs": "https://github.com/antfu/pkg-placeholder/issues",
+  "bugs": "https://github.com/geekris1/pkg-placeholder/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
